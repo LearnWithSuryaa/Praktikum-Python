@@ -19,7 +19,8 @@ Kumpulan proyek sederhana dalam bahasa pemrograman Python untuk latihan dan eksp
 - **TebakAngka.py**  
   Permainan sederhana di mana pengguna mencoba menebak angka yang telah dipilih secara acak oleh program.
 
-## Jika ingin menjalankan program gunkan printah berikut pada terminal:
-``` python3 NamaFile.py ```
+## Cara menjalankan program
+**Jika ingin menjalankan program gunkan printah berikut pada terminal:**
+```bash python3 NamaFile.py ```
 nama file diatas dapat disesuaikan dengan nama file kalian.
 ---
