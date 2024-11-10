@@ -22,10 +22,15 @@ Kumpulan proyek sederhana dalam bahasa pemrograman Python untuk latihan dan eksp
 
 ## Cara Menjalankan Program
 
-Jika ingin menjalankan program, gunakan perintah berikut pada terminal:
+Jika ingin menjalankan program, gunakan perintah berikut pada terminal MAC OS:
 
 ```bash
 python3 NamaFile.py
+```
+Jika ingin menjalankan program, gunakan perintah berikut pada terminal Windows:
+
+```bash
+python NamaFile.py
 ```
 
 Gantilah `NamaFile.py` dengan nama file yang ingin dijalankan sesuai dengan yang ada dalam folder ini.
