@@ -1,3 +1,4 @@
+
 # LEARNPYTHON
 
 Kumpulan proyek sederhana dalam bahasa pemrograman Python untuk latihan dan eksplorasi.
@@ -19,8 +20,14 @@ Kumpulan proyek sederhana dalam bahasa pemrograman Python untuk latihan dan eksp
 - **TebakAngka.py**  
   Permainan sederhana di mana pengguna mencoba menebak angka yang telah dipilih secara acak oleh program.
 
-## Cara menjalankan program
-**Jika ingin menjalankan program gunkan printah berikut pada terminal:**
-```bash python3 NamaFile.py ```
-nama file diatas dapat disesuaikan dengan nama file kalian.
+## Cara Menjalankan Program
+
+Jika ingin menjalankan program, gunakan perintah berikut pada terminal:
+
+```bash
+python3 NamaFile.py
+```
+
+Gantilah `NamaFile.py` dengan nama file yang ingin dijalankan sesuai dengan yang ada dalam folder ini.
+
 ---
