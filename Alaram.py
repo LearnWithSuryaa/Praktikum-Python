@@ -22,4 +22,4 @@ print(f"{HIJAU}Alarm disetel...{RESET}")
 time.sleep(waktu_alarm)
 
 print(f"{MERAH}Waktu habis! Alarm berbunyi!{RESET}")
-print("\a") #menambahkan bunyi pada terminal yang support
+print("\a")
